@@ -1,0 +1,8 @@
+
+/bin/
+/target/
+/.settings/
+/src/main/generated-sources/
+/src/test/generated-sources/
+.classpath
+.project
